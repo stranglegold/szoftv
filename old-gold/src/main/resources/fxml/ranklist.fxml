@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hu.inf.unideb.oldgold.javafx.controller.RankListController">
+   <children>
+      <TableView fx:id="ranklist" layoutX="138.0" layoutY="58.0" prefHeight="252.0" prefWidth="337.0">
+        <columns>
+          <TableColumn fx:id="user" prefWidth="157.0" text="Felhasználó" />
+          <TableColumn fx:id="score" prefWidth="179.0" text="Pontszám" />
+        </columns>
+      </TableView>
+      <Button layoutX="274.0" layoutY="334.0" mnemonicParsing="false" onAction="#back" text="Vissza" />
+   </children>
+</Pane>

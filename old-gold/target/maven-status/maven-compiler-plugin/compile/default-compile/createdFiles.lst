@@ -1,0 +1,11 @@
+hu\inf\unideb\oldgold\javafx\controller\LaunchController.class
+hu\inf\unideb\oldgold\state\OldGoldState.class
+hu\inf\unideb\util\guice\JpaInitializer.class
+hu\inf\unideb\oldgold\javafx\OldGoldApplication.class
+hu\inf\unideb\oldgold\javafx\OldGoldApplication$1.class
+hu\inf\unideb\util\guice\PersistenceModule.class
+hu\inf\unideb\oldgold\javafx\controller\GameController.class
+hu\inf\unideb\oldgold\results\GameResult.class
+hu\inf\unideb\oldgold\javafx\controller\RankListController.class
+hu\inf\unideb\oldgold\javafx\Main.class
+hu\inf\unideb\oldgold\results\GameResultDao.class
